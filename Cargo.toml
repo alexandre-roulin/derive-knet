@@ -5,6 +5,8 @@ authors = ["Krys <aroulin@stundent.42.fr>"]
 edition = "2018"
 keywords = ["derive", "serialize", "deserialize"]
 repository = "https://github.com/alexandre-roulin/derive-knet"
+description = "A derive macro for serialize and deserialize the data"
+license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]
 proc-macro = true

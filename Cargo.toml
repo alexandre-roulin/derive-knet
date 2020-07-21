@@ -1,7 +1,7 @@
 [package]
 name = "derive-knet"
 version = "0.1.0"
-authors = ["Krys <aroulin@stundent.42.fr>"]
+authors = ["Krys <roulin.alexandre@gmail.com>"]
 edition = "2018"
 keywords = ["derive", "serialize", "deserialize"]
 repository = "https://github.com/alexandre-roulin/derive-knet"
